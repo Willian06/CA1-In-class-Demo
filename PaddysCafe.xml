@@ -9,6 +9,10 @@
       <item>Paddy's French Fries</item>
       <price>7.50</price>
     </entree>
+    <entree>
+      <item/>
+      <price/>
+    </entree>
   </section>
   <section name="Breakfast">
     <entree>
