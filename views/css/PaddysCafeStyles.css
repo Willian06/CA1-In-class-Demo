@@ -3,6 +3,9 @@ html {
   min-height: 100%;
 }
 body {
+  background-image: url("paper.gif");
+  background-color: #cccccc;
+
   /* Margin bottom by footer height */
   margin-bottom: 60px;
 }
