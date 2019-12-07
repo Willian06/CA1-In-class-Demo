@@ -15,6 +15,10 @@
       <item>elf</item>
       <release/>
     </entree>
+    <entree>
+      <item>Oz</item>
+      <release>2009</release>
+    </entree>
   </section>
   <section name="Action">
     <entree>
@@ -31,6 +35,10 @@
       <item>jumanji</item>
       <item>2100</item>
       <release/>
+    </entree>
+    <entree>
+      <item>City</item>
+      <price/>
     </entree>
   </section>
   <section name="Thriller">
