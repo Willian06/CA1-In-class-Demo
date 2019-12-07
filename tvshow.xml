@@ -7,17 +7,12 @@
       <end_date>present</end_date>
     </entree>
     <entree>
-      <item>summer</item>
-      <item>243</item>
-      <release/>
-    </entree>
-    <entree>
-      <item>elf</item>
-      <release/>
-    </entree>
-    <entree>
       <item>Oz</item>
       <release>2009</release>
+    </entree>
+    <entree>
+      <item>Rick and Morty</item>
+      <release>2013</release>
     </entree>
   </section>
   <section name="Action">
@@ -30,15 +25,6 @@
       <item>Spartacus</item>
       <release>2011</release>
       <end_date>present</end_date>
-    </entree>
-    <entree>
-      <item>jumanji</item>
-      <item>2100</item>
-      <release/>
-    </entree>
-    <entree>
-      <item>City</item>
-      <price/>
     </entree>
   </section>
   <section name="Thriller">
