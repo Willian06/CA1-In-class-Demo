@@ -23,21 +23,19 @@
       <release>2011</release>
       <end_date>present</end_date>
     </entree>
+    <entree>
+      <item>Die hard</item>
+      <release>2009</release>
+    </entree>
   </section>
   <section name="Thriller">
-    <entree>
-      <item>Black Mirror</item>
-      <release>2011</release>
-      <end_date>present</end_date>
-    </entree>
     <entree>
       <item>House of Cards</item>
       <release>2011</release>
       <end_date>present</end_date>
     </entree>
   </section>
-</tvshow>em>esfs</item>
-      <release>23</release>
+<!--</tvshow>  <end_date>present</end_date>
     </entree>
-  </section>
+  </section>-->
 </tvshow>
