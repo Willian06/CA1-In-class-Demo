@@ -6,6 +6,10 @@
       <release>2011</release>
       <end_date>present</end_date>
     </entree>
+    <entree>
+      <item>wew</item>
+      <release/>
+    </entree>
   </section>
   <section name="Action">
     <entree>
@@ -15,11 +19,6 @@
     </entree>
     <entree>
       <item>Spartacus</item>
-      <release>2011</release>
-      <end_date>present</end_date>
-    </entree>
-    <entree>
-      <item>Vikings</item>
       <release>2011</release>
       <end_date>present</end_date>
     </entree>
@@ -35,7 +34,4 @@
       <end_date>present</end_date>
     </entree>
   </section>
-<!--</tvshow>  <end_date>present</end_date>
-    </entree>
-  </section>-->
 </tvshow>
