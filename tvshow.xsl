@@ -1,7 +1,9 @@
 <?xml version="1.0"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
-    <xsl:template match="/">
-                <table id="menuTable" class="indent">
+    
+<xsl:template match="/">           
+<!--it creates a table with Select,Title and Release as Head of the table-->   
+<table id="menuTable" class="indent">
                     <thead>
                         <tr>
                             <th colspan="3">Best TV shows</th>
@@ -13,6 +15,7 @@
                         </tr>
                     </thead>
                     <tbody>
+                        <!--Cycles through each node in the XML file-->
                         <xsl:for-each select="/tvshow/section">
                             <tr>
                                 <td colspan="3">
@@ -20,10 +23,9 @@
                                 </td>
                             </tr>
                             <xsl:for-each select="entree">
+                            <!--generating an id for the item-->
                             <tr id="{position()}">
-                                <!--<xsl:attribute name="vegetarian">
-                                    <xsl:value-of select="boolean(./@vegetarian)" />
-                                </xsl:attribute>-->
+            
                                 <td align="center">
                                     <input name="item0" type="checkbox" />
                                 </td>
