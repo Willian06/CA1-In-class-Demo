@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<!--XML document created to hold a tvshow list the document has its root tag called <tvshow> 
-and tag<section> that holds the tvshow genre tag<item>for the tvshow name tag<release>for the release year -->
 <tvshow>
   <section name="Comedy">
     <entree>
       <item>Blue Mountain State</item>
       <release>2011</release>
       <end_date>present</end_date>
-    <!--<poster href="https://images-na.ssl-images-amazon.com/images/I/91yFn6BYOTL._RI_.jpg" width="20" height="10" />-->
- </entree>
+    </entree>
     <entree>
       <item>Oz</item>
       <release>2009</release>
